@@ -1,10 +1,10 @@
-# Free
+# Free AI / API
 
->  · curated by **AI很忙 (AI Hustle)**.
+> Free AI models & APIs · curated by **AI很忙 (AI Hustle)**.
 > Full multi-category list: [aiworkhard-free-resources](https://github.com/dragonkin/aiworkhard-free-resources)
 > Live site: **[AI很忙](https://www.aiworkhard.com/)** · **46** entries
 
-### Free (46)
+### Free AI / API (46)
 
 - [Inferbase 免费档：每月 5000 次请求，但藏着每日上限，先看清再用](https://www.aiworkhard.com/a/150) `已核实` — 托管推理平台，官方计费文档写明 Free 档 $0、每月含 5000 次请求。数字是真的，但免费强度被一套日限压着，实际能用的比字面少，先看清口径再决定用不用。
 - [One AI API Key：注册送 $10 额度，全模型可用，另有免费通道](https://www.aiworkhard.com/a/149) `已核实` — 独立小网关 oneaiapikey.com，官方文档写明：Google 账号注册，新账号一次性送 $10 额度，可抵扣站内全部模型，包括付费款。
